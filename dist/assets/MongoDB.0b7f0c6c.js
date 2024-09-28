@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{c as e,e as r}from"./index.7b9a5795.js";const t={data(){return{}}};function n(a,c,s,p,_,f){return e(),r("h1",null," IAM MongoDB")}var u=o(t,[["render",n]]);export{u as default};

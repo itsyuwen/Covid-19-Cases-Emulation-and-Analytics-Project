@@ -1,0 +1,1 @@
+import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";import{c as t,e}from"./index.7b9a5795.js";const r={data(){return{}}};function o(c,n,s,p,_,f){return t(),e("h1",null," I am Data")}var u=a(r,[["render",o]]);export{u as default};
